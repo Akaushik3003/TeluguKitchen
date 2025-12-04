@@ -1,6 +1,12 @@
 # TeluguKitchen
 
-A community-driven platform to preserve and share traditional Telugu recipes from Andhra Pradesh and Telangana.
+The Traditional Telugu Cuisine Data Collection Platform is a purpose-built digital system designed to systematically gather, organize, and preserve rich, authentic, and region-specific culinary data from across the states of Telangana and Andhra Pradesh. With a focus on both traditional and evolving food practices, this platform serves as a cultural archiving tool, a linguistic asset, and a community-driven research database.
+
+This application empowers users and volunteers to contribute a wide array of multimedia content—ranging from handwritten or typed recipes, cooking process images, local dialect voice recordings, to full-length kitchen video demonstrations. It supports multiple file types and offers seamless data entry modes tailored for both individual users and field researchers.
+
+By prioritizing community participation, the project aims to construct a culturally inclusive, language-aware dataset that reflects the food practices, rituals, and oral histories of Telugu-speaking communities. The collected data will fuel downstream applications in regional language modeling, AI-based culinary knowledge graphs, interactive educational tools, and future heritage conservation initiatives.
+
+The platform is built as a full-stack application with robust role-based authentication, submission tracking, and contributor engagement features. Whether you are an elder sharing your generational knowledge or a student conducting culinary fieldwork, the platform ensures your contributions are organized, archived, and valued—becoming part of a living digital repository of Telugu food heritage.
 
 ## Features
 
